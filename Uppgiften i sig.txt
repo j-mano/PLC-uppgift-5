@@ -1,0 +1,17 @@
+Sammanfattning  
+I denna uppgift ska du skapa ett program i något av programmeringsspråken: ladder diagram eller function block diagram. Leveransen består i en bild av detta program.
+
+Om du vill simulera knapparna och lamporna kan du använda denna: Knapp och lamp panel i CoDeSys 
+
+Uppgift  
+Skapa ett program i ladder diagram eller function block diagram som uppfyller följande funktion:
+
+"LAMP_RED lyser när BUTTON_RED är nedtryckt. LAMP_GREEN lyser när BUTTON_GREEN är nedtryckt. LAMP_BLUE tänds när LAMP_GREEN tänds och släcks när LAMP_RED tänds."
+Leverans  
+
+Du dokumenterar din lösning på valfritt men adekvat sätt. Lösningen ska sedan levereras som en bildfil av godkänt format.
+
+Exempel på adekvata sätt att producera lösningen:
+
+Lösning i mjukvara samt tydlig printscreen - kan med fördel göras i CoDeSys
+Lösning på papper som scannas eller fotograferas
